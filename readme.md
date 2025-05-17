@@ -4,12 +4,12 @@
 
 ### 1.Bert-Attention 수식  
 <div align="center">
-  <img width="985" src="https://github.com/user-attachments/assets/d0af47e7-2855-4096-be70-c2fba41dbb51"/>
+  <img width="985" src="https://github.com/user-attachments/assets/9e9afb6c-1dd8-4715-b6c6-64f54bf82c3c"/>
 </div>    
 
 ### 2.모델의 전체 구조  
 <div align="center">
-  <img width="985" alt="Screenshot 2025-04-29 at 10 59 51 AM" src="https://github.com/user-attachments/assets/9975360b-ac96-40c2-9e85-4e9c0df8a377" />
+  <img width="985" alt="Screenshot 2025-04-29 at 10 59 51 AM" src="https://github.com/user-attachments/assets/d0af47e7-2855-4096-be70-c2fba41dbb51" />
 </div> 
 
 ### 3.Custon GNN의 구조
