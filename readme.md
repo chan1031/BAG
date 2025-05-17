@@ -4,7 +4,8 @@
 
 ### 1.Bert-Attention 수식  
 <div align="center">
-  <img width="985" alt="Screenshot 2025-04-29 at 10 59 51 AM" src="https://github.com/user-attachments/assets/bb8a3a27-fc82-4525-a136-52c4a2d878b8"/>
+  <img width="985" src="https://github.com/user-attachments/assets/37960bb3-a3c8-4f35-b73c-c1b1af505c6c"/>
+
 </div>    
 
 ### 2.모델의 전체 구조  
