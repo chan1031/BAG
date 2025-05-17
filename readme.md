@@ -1,7 +1,7 @@
 # 불법사이트 HTML 구조 분석 BAG 모델
 
 본 연구에서는 HTML 태그의 텍스트와 구조 정보를 결합하여 불법 도박 사이트를 효과적으로 탐지할 수 있는 하이브리드 모델 BAG (BERT-Attention GNN)을 제안한다. 제안된 모델은 HTML 각 태그의 텍스트를 BERT로 분석해 불법성 점수를 산출하고, 이를 GAT의 attention 연산에 반영하여 중요 노드의 정보를 강화한다. 또한, Weighted Pooling을 도입해 불법 키워드를 담은 노드가 많을수록 판정결과에 기여하도록 설정하였다. 불법 도박 사이트와 정상 사이트의 HTML 데이터를 활용한 실험 결과, 훈련 정확도 89%와 추론 성능 정확도 90%의 우수한 성능을 확인하였으며, 추가 제거 연구를 통해 BERT-Attention 연산과 텍스트 감정분석이 HTML 분류 성능 향상에 기여하고 있음을 입증하였다.  
-Paper: [BAG.pdf](https://github.com/user-attachments/files/20265301/BAG.pdf)
+## Paper: [BAG.pdf](https://github.com/user-attachments/files/20265301/BAG.pdf)
 
 
 ### 1.Bert-Attention 수식  
