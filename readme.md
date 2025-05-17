@@ -16,7 +16,7 @@
 
 ### 3.Custon GNN의 구조
 <div align="center">
-  <img width="985" alt="Screenshot 2025-04-29 at 10 59 51 AM" src="https://github.com/user-attachments/assets/987bbdab-46a9-4ed2-bef1-08e2fe17864e" />
+  <img width="985" alt="Screenshot 2025-04-29 at 10 59 51 AM" src="https://github.com/user-attachments/assets/61c664b1-7bd5-4796-be90-6d963a3f3122" />
 </div> 
 
 ## 주요 특징
