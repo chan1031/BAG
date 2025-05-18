@@ -8,6 +8,7 @@
 <div align="center">
   <img width="700" src="https://github.com/user-attachments/assets/9e9afb6c-1dd8-4715-b6c6-64f54bf82c3c"/>
 </div>    
+HTML 각 태그의 텍스트 감정분석을 통해 태그의 불법키워드 점수를 산출합니다. 이후 GAT의 Attention 연산에서 해당 점수를 반영하여 HTML의 그래프 구조뿐 아니라, 불법 텍스트 키워드에 기반하여 확인할 수 있도록 합니다.
 
 ### 2.모델의 전체 구조  
 <div align="center">
