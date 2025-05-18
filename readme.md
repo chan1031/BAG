@@ -14,11 +14,13 @@ HTML 각 태그의 텍스트 감정분석을 통해 태그의 불법키워드 �
 <div align="center">
   <img width="985" alt="Screenshot 2025-04-29 at 10 59 51 AM" src="https://github.com/user-attachments/assets/d0af47e7-2855-4096-be70-c2fba41dbb51" />
 </div> 
+BAG는 우선 HTML 파일의 각 텍스트를 BERT로 분석하여 불법 키워드 포함 여부를 0~1사이로 산출하고, 이후 GAT 레이어에서 그래프 구조를 학습합니다.
 
 ### 3.Custon GNN의 구조
 <div align="center">
   <img width="985" alt="Screenshot 2025-04-29 at 10 59 51 AM" src="https://github.com/user-attachments/assets/61c664b1-7bd5-4796-be90-6d963a3f3122" />
 </div> 
+BERT-Attention을 적용하기 위해 Custom GNN구조를 제작하였습니다. GAT layer는 총 3개의 layer로 구성되어 있으며, 마지막 레이어에서는 Weighted Pooling layer를 통해 불법키워드가 많이 있을수록 가중치를 부여합니다.
 
 ## 주요 특징
 
